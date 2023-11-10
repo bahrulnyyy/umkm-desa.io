@@ -1,0 +1,20 @@
+body {
+  background-color: #eaeaea;
+}
+.navbar-brand {
+  font-family: "Bitter", serif;
+}
+.navbar-text {
+  font-family: "Edu TAS Beginner", cursive;
+}
+h1 {
+  font-family: "Noto Serif Old Uyghur", serif;
+  text-align: center;
+}
+p {
+  font-size: 22px;
+  text-align: center;
+}
+.pict-first {
+  justify-content: center;
+}
